@@ -1,0 +1,11 @@
+name: FakeLimbo
+description: $description
+prefix: FakeLimbo
+version: '${version}'
+
+main: cc.moeneko.limbo.FakeLimbo
+api-version: '1.21'
+load: STARTUP
+depend: [ ProtocolLib ]
+
+authors: [ jiyun233 ]
